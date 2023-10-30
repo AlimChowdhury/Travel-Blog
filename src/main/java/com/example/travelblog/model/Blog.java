@@ -33,4 +33,6 @@ public class Blog {
     private String coverImageLocation;
 
 
+    public Blog(String userName, String name, LocalDate date, String description, String s) {
+    }
 }
